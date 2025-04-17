@@ -1,0 +1,39 @@
+.nav-item:hover {
+    background-color: #E6FFFA;
+  }
+  
+  .mobile-menu-button {
+    display: none;
+  }
+  
+  .desktop-menu {
+    display: flex;
+  }
+  
+  .home-button {
+    display: inline-flex;
+  }
+  
+  @media (max-width: 768px) {
+    .mobile-menu-button {
+      display: flex;
+    }
+  
+    .desktop-menu {
+      display: none;
+    }
+  
+    .home-button {
+      display: none;
+    }
+  
+    .mobile-menu {
+      display: block;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .mobile-menu {
+      display: none !important;
+    }
+  }
