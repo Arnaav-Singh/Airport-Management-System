@@ -3,10 +3,7 @@
 
 A full-stack application for managing shoe inventory, customer data, and purchase orders. Designed to streamline the operations of a retail shoe store using **Node.js**, **Express**, and **MySQL**, with planned integration for a **React.js** frontend.
 
-## 🔗 GitHub Repo
-[https://github.com/Arnaav-Singh/Shoe-Store-Management](https://github.com/Arnaav-Singh/Shoe-Store-Management)
 
----
 
 ## 🧰 Features
 
@@ -124,4 +121,4 @@ MIT © [Arnaav Singh](https://github.com/Arnaav-Singh)
 Have ideas or need help?
 
 - GitHub: [@Arnaav-Singh](https://github.com/Arnaav-Singh)
-- Email: *add your email here if you'd like*
+- Email: *arnaavsingh5@gmail.com*
